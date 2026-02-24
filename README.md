@@ -27,7 +27,7 @@ def example_screen_function():
 # NAME of the game: choose. 
     # --> 'Ultra Speed' for example.
 
-#xtras
+# xtras
     # modify/remove 'car features/statistics' (on Customization Screen 1) ??
     
     # would be great if car image has reflection on the floor (:
