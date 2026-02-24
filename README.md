@@ -1,7 +1,7 @@
 # tester
 code for Customization Screen 1
 
-#changes made:
+# changes made:
     # screens imp. as func.
     # only shows the selected car in the middle
     # better car selection background - made with ai
