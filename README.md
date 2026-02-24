@@ -8,7 +8,7 @@ code for Customization Screen 1
 
 ### example screen function from github repo:
 def example_screen_function():
-    #this opens a window with the color grey and names it
+    # this opens a window with the color grey and names it
     pygame.display.set_caption("Kar Kart")
     screen.fill((30, 30, 30))
 ###
